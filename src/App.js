@@ -96,7 +96,7 @@ class App extends React.Component {
         {
           id: 11,
           title: "Кросівки дитячі Clibee",
-          img: "cros1.jpg",
+          img: "cros11.jpg",
           desc: "Кросівки дитячі на хлобчика розмір 32-37",
           category: "Sneakers",
           price: "300 грн ",
